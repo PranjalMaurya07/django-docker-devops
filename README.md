@@ -23,7 +23,6 @@ Originally a Django app, I extended it by integrating DevOps practices for seaml
 1. Clone the repo:
    ```bash
    git clone https://github.com/PranjalMaurya07/django-docker-devops.git
-   cd django-notes-devops
 
 2. Create an .env file in the root directory:
 
